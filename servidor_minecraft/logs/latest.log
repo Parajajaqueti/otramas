@@ -538,3 +538,64 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 03:40:16.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
 [24May2025 03:41:43.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Teleported YamadaH2O to JARAX23]
 [24May2025 03:45:49.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/5006, l='ServerLevel[world]', x=-343.57, y=104.27, z=1870.45] died, message: 'Leatherworker was slain by Zombie'
+[24May2025 03:53:29.121] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[24May2025 03:53:29.124] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[24May2025 03:53:29.124] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[24May2025 03:53:30.664] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[24May2025 03:53:30.665] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[24May2025 03:53:30.812] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[24May2025 03:53:30.812] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[24May2025 03:53:30.813] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[24May2025 03:53:30.813] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[24May2025 03:53:30.813] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[24May2025 03:57:16.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Spooky Scary Skeleton]
+[24May2025 03:58:28.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[24May2025 03:58:28.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[24May2025 03:59:03.041] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[24May2025 03:59:07.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.176.151.104:38865] logged in with entity id 11434 at (-4024.5298039021022, 69.0625, -1562.6007446339995)
+[24May2025 03:59:07.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[24May2025 04:02:36.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 fell from a high place
+[24May2025 04:15:28.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Set the weather to clear]
+[24May2025 04:20:02.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Skull
+[24May2025 04:20:21.730] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[24May2025 04:20:27.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:42409] logged in with entity id 17497 at (3392.473922653289, 153.0, -1866.230640844725)
+[24May2025 04:20:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[24May2025 04:21:02.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Skull Deserter
+[24May2025 04:21:27.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[24May2025 04:21:27.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[24May2025 04:22:11.590] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[24May2025 04:22:19.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:33077] logged in with entity id 18805 at (2971.5, 63.390447453259966, -2614.5)
+[24May2025 04:22:19.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[24May2025 04:22:20.507] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -150], discarding
+[24May2025 04:22:20.658] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -149], discarding
+[24May2025 04:22:22.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Skull Deserter
+[24May2025 04:22:32.618] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-149, 23], discarding
+[24May2025 04:22:32.620] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-148, 23], discarding
+[24May2025 04:22:32.623] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-147, 23], discarding
+[24May2025 04:22:32.624] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-146, 23], discarding
+[24May2025 04:22:32.685] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-149, 22], discarding
+[24May2025 04:22:32.687] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-148, 22], discarding
+[24May2025 04:22:32.688] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-147, 22], discarding
+[24May2025 04:22:32.689] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-146, 22], discarding
+[24May2025 04:22:32.865] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-148, 21], discarding
+[24May2025 04:22:32.866] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-149, 21], discarding
+[24May2025 04:22:32.867] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-147, 21], discarding
+[24May2025 04:22:32.868] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-146, 21], discarding
+[24May2025 04:22:32.896] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-149, 20], discarding
+[24May2025 04:22:32.897] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: dungeons_and_combat:the_cult_of_the_weaks
+[24May2025 04:22:32.897] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-148, 20], discarding
+[24May2025 04:22:32.899] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-147, 20], discarding
+[24May2025 04:22:32.910] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-146, 20], discarding
+[24May2025 04:22:49.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[24May2025 04:22:49.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[24May2025 04:23:04.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Skull Deserter
+[24May2025 04:23:11.738] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[24May2025 04:23:17.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:40457] logged in with entity id 20408 at (2971.5, 63.390447453259966, -2614.5)
+[24May2025 04:23:17.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[24May2025 04:23:21.715] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-149, 19], discarding
+[24May2025 04:23:21.774] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-148, 19], discarding
+[24May2025 04:23:21.782] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-147, 19], discarding
+[24May2025 04:23:21.791] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-146, 19], discarding
+[24May2025 04:25:50.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2829, y=71, z=482} BlockPos{x=-2829, y=71, z=483}
+[24May2025 04:26:01.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Zombie
+[24May2025 04:26:18.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Skull Deserter
