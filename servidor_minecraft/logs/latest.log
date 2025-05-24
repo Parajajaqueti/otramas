@@ -474,3 +474,67 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [24May2025 03:29:49.879] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -149], discarding
 [24May2025 03:30:22.776] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7228a379[id=<null>,name=Mandester,properties={},legacy=false] (/127.59.157.143:58257) lost connection: Disconnected
 [24May2025 03:30:32.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Teleported YamadaH2O to JARAX23]
+[24May2025 03:31:14.185] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[24May2025 03:31:22.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:60049] logged in with entity id 3291 at (3392.473922653289, 153.0, -1866.230640844725)
+[24May2025 03:31:22.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[24May2025 03:31:32.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [DJ! DJ!]
+[24May2025 03:31:33.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has reached the goal [Listen directly]
+[24May2025 03:31:42.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Teleported YamadaH2O to JARAX23]
+[24May2025 03:31:52.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[24May2025 03:31:52.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[24May2025 03:32:55.395] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[24May2025 03:33:24.820] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6c44c37[id=88730de1-019f-437d-91ce-dac4e7f59147,name=Mandester,properties={textures=[com.mojang.authlib.properties.Property@7665e842]},legacy=false] (/127.59.157.143:58441): Took too long to log in
+[24May2025 03:34:21.434] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c44c37[id=88730de1-019f-437d-91ce-dac4e7f59147,name=Mandester,properties={textures=[com.mojang.authlib.properties.Property@7665e842]},legacy=false] (/127.59.157.143:58441) lost connection: Disconnected
+[24May2025 03:34:21.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 56579ms or 1131 ticks behind
+[24May2025 03:34:21.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Disconnected
+[24May2025 03:34:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
+[24May2025 03:34:21.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[24May2025 03:34:21.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[24May2025 03:34:21.480] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24May2025 03:34:21.480] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ed86fd[id=<null>,name=Mandester,properties={},legacy=false] (/127.59.157.143:35325) lost connection: Disconnected
+[24May2025 03:34:22.274] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[24May2025 03:34:29.768] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[24May2025 03:34:30.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:37879] logged in with entity id 3912 at (3392.473922653289, 153.0, -1866.230640844725)
+[24May2025 03:35:21.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[24May2025 03:35:21.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[24May2025 03:35:21.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[24May2025 03:35:21.476] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46bcbf3a[id=92efd7a6-88fb-4f9b-8f48-624fdc0e1355,name=YamadaH2O,properties={textures=[com.mojang.authlib.properties.Property@142c1a1a]},legacy=false] (/127.176.151.104:43913) lost connection: Disconnected
+[24May2025 03:35:21.544] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24May2025 03:35:21.545] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@21be72e2[id=<null>,name=JARAX23,properties={},legacy=false] (/127.69.151.243:51939) lost connection: Disconnected
+[24May2025 03:35:21.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 45373ms or 907 ticks behind
+[24May2025 03:35:22.108] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@342ae84b[id=<null>,name=Mandester,properties={},legacy=false] (/127.59.157.143:55597) lost connection: Disconnected
+[24May2025 03:35:27.584] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[24May2025 03:35:36.913] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:50111] logged in with entity id 3913 at (3392.473922653289, 153.0, -1866.230640844725)
+[24May2025 03:35:36.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[24May2025 03:35:49.724] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@242a780c[id=<null>,name=JARAX23,properties={},legacy=false] (/127.69.151.243:49377) lost connection: Disconnected
+[24May2025 03:36:07.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[24May2025 03:36:07.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[24May2025 03:36:16.409] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d45d16[id=<null>,name=YamadaH2O,properties={},legacy=false] (/127.176.151.104:48445) lost connection: Disconnected
+[24May2025 03:36:25.037] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[24May2025 03:36:31.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.176.151.104:36001] logged in with entity id 3980 at (650.1383475409408, 176.0, -982.5918559545581)
+[24May2025 03:36:31.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[24May2025 03:36:43.164] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[24May2025 03:36:49.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:47415] logged in with entity id 4120 at (3392.473922653289, 153.0, -1866.230640844725)
+[24May2025 03:36:49.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[24May2025 03:36:56.923] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3a7e7e8f[id=<null>,name=JARAX23,properties={},legacy=false] (/127.69.151.243:43353) lost connection: Disconnected
+[24May2025 03:37:19.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[24May2025 03:37:19.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[24May2025 03:37:19.372] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24May2025 03:37:23.616] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3803d23d[id=<null>,name=JARAX23,properties={},legacy=false] (/127.69.151.243:49619) lost connection: Disconnected
+[24May2025 03:37:38.916] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c65a32f[id=<null>,name=JARAX23,properties={},legacy=false] (/127.69.151.243:44695) lost connection: Disconnected
+[24May2025 03:37:48.501] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JARAX23 is b2da3f4f-368d-4add-91b8-fdefbc5fa6e9
+[24May2025 03:37:52.482] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JARAX23[/127.69.151.243:60971] logged in with entity id 4329 at (3400.901429098116, 153.0, -1860.2140863415732)
+[24May2025 03:37:52.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 joined the game
+[24May2025 03:38:49.620] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d0ebeb7[id=<null>,name=Mandester,properties={},legacy=false] (/127.59.157.143:50645) lost connection: Disconnected
+[24May2025 03:38:55.135] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[24May2025 03:38:59.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:34007] logged in with entity id 4532 at (3392.473922653289, 153.0, -1866.230640844725)
+[24May2025 03:38:59.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[24May2025 03:39:30.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[24May2025 03:39:30.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[24May2025 03:39:41.314] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[24May2025 03:39:46.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:37535] logged in with entity id 4729 at (3392.473922653289, 153.0, -1866.230640844725)
+[24May2025 03:39:46.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[24May2025 03:40:16.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[24May2025 03:40:16.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[24May2025 03:41:43.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Teleported YamadaH2O to JARAX23]
+[24May2025 03:45:49.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/5006, l='ServerLevel[world]', x=-343.57, y=104.27, z=1870.45] died, message: 'Leatherworker was slain by Zombie'

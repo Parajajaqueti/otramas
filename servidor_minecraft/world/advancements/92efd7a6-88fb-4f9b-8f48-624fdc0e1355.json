@@ -4028,21 +4028,21 @@
     },
     "done": true
   },
-  "dungeons_and_combat:hiddeninthe_cult": {
+  "iammusicplayer:iammusicplayer/add_music": {
     "criteria": {
-      "hiddeninthe_cult_0": "2025-05-23 05:24:03 +0000"
+      "add_music": "2025-05-23 04:25:24 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
+  "dungeons_and_combat:the_bloodymancer": {
     "criteria": {
-      "has_any_ingredient": "2025-05-23 05:20:59 +0000"
+      "the_bloodymancer_0": "2025-05-23 04:34:19 +0000"
     },
     "done": true
   },
-  "dungeons_and_combat:now_you_can_rest": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "now_you_can_rest_0": "2025-05-23 05:02:43 +0000"
+      "has_dandelion": "2025-05-23 04:38:19 +0000"
     },
     "done": true
   },
@@ -4052,13 +4052,55 @@
     },
     "done": true
   },
-  "iammusicplayer:iammusicplayer/add_music": {
+  "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "add_music": "2025-05-23 04:25:24 +0000"
+      "killed_by": "2025-05-23 04:59:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_cursed_soul": {
+    "criteria": {
+      "the_cursed_soul_0": "2025-05-23 05:02:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:now_you_can_rest": {
+    "criteria": {
+      "now_you_can_rest_0": "2025-05-23 05:02:43 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/parabolic_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-23 05:04:19 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/radio_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-23 05:04:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-23 05:20:59 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-23 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-23 05:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-23 05:20:59 +0000"
     },
@@ -4070,51 +4112,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "dungeons_and_combat:hiddeninthe_cult": {
     "criteria": {
-      "has_potato": "2025-05-23 05:20:59 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:recipes/misc/parabolic_antenna": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-23 05:04:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-05-23 04:38:19 +0000"
-    },
-    "done": true
-  },
-  "dungeons_and_combat:the_bloodymancer": {
-    "criteria": {
-      "the_bloodymancer_0": "2025-05-23 04:34:19 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-05-23 04:59:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-05-23 05:20:59 +0000"
-    },
-    "done": true
-  },
-  "dungeons_and_combat:the_cursed_soul": {
-    "criteria": {
-      "the_cursed_soul_0": "2025-05-23 05:02:40 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:recipes/misc/radio_antenna": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-23 05:04:19 +0000"
+      "hiddeninthe_cult_0": "2025-05-23 05:24:03 +0000"
     },
     "done": true
   },
