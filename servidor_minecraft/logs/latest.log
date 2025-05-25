@@ -455,3 +455,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 04:17:14.667] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -149], discarding
 [25May2025 04:17:43.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
 [25May2025 04:17:43.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[25May2025 04:32:29.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25May2025 04:32:29.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25May2025 04:32:29.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25May2025 04:32:29.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25May2025 04:32:29.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25May2025 04:32:30.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25May2025 04:32:30.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25May2025 04:32:30.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25May2025 04:32:30.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25May2025 04:32:30.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25May2025 04:32:30.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25May2025 04:32:30.907] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
