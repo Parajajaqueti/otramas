@@ -526,3 +526,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 22:26:46.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has completed the challenge [Free Willy]
 [25May2025 22:27:08.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Cachalot Whale
 [25May2025 22:41:35.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [The Cursed Soul]
+[25May2025 22:46:11.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was killed by magic
+[25May2025 22:47:33.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [All_D08: Teleported All_D08 to JARAX23]
+[25May2025 22:53:44.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> t
+[25May2025 22:55:19.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: All_D08 lost connection: Disconnected
+[25May2025 22:55:19.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 left the game
