@@ -3998,42 +3998,6 @@
     },
     "done": true
   },
-  "iammusicplayer:recipes/misc/music_manager": {
-    "criteria": {
-      "has_diamond": "2025-05-23 03:22:51 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:recipes/misc/manual": {
-    "criteria": {
-      "has_book": "2025-05-23 03:22:51 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:iammusicplayer/listen_to_remote_music": {
-    "criteria": {
-      "listen_to_remote_music": "2025-05-23 03:38:48 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:iammusicplayer/listen_to_music": {
-    "criteria": {
-      "listen_to_music": "2025-05-23 03:38:48 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:iammusicplayer/root": {
-    "criteria": {
-      "iammusicplayer": "2025-05-23 03:38:48 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:iammusicplayer/add_music": {
-    "criteria": {
-      "add_music": "2025-05-23 04:25:24 +0000"
-    },
-    "done": true
-  },
   "dungeons_and_combat:the_bloodymancer": {
     "criteria": {
       "the_bloodymancer_0": "2025-05-23 04:34:19 +0000"
@@ -4067,18 +4031,6 @@
   "dungeons_and_combat:now_you_can_rest": {
     "criteria": {
       "now_you_can_rest_0": "2025-05-23 05:02:43 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:recipes/misc/parabolic_antenna": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-23 05:04:19 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:recipes/misc/radio_antenna": {
-    "criteria": {
-      "has_ender_pearl": "2025-05-23 05:04:19 +0000"
     },
     "done": true
   },
@@ -4202,6 +4154,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-25 04:09:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-05-25 04:19:56 +0000"
@@ -4244,12 +4202,6 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-05-25 04:09:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-05-25 04:19:56 +0000"
@@ -4289,6 +4241,18 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-25 04:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-25 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-25 05:20:51 +0000"
     },
     "done": true
   },
