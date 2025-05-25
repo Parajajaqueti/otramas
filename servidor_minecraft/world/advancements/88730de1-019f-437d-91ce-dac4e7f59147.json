@@ -7973,6 +7973,18 @@
     },
     "done": true
   },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-05-25 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-05-25 07:46:53 +0000"
+    },
+    "done": true
+  },
   "create_connected:recipes/crafting/kinetics/brass_gearbox": {
     "criteria": {
       "has_item": "2025-05-25 07:33:04 +0000"

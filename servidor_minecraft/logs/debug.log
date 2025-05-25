@@ -7044,3 +7044,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 07:39:23.136] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
 [25May2025 07:39:23.137] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
 [25May2025 07:39:23.143] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[25May2025 07:41:01.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 07:41:01.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 07:42:13.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Set the time to 1000]
+[25May2025 07:44:36.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [All Along The Watchtower]
+[25May2025 07:46:01.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 07:46:01.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 07:47:43.036] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[25May2025 07:47:43.036] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[25May2025 07:47:43.037] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[25May2025 07:51:01.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 07:51:01.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 07:52:36.300] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[25May2025 07:52:36.301] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[25May2025 07:52:36.301] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[25May2025 07:52:36.301] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[25May2025 07:52:36.301] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[25May2025 07:52:36.308] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[25May2025 07:52:36.309] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[25May2025 07:52:36.309] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[25May2025 07:52:36.507] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[25May2025 07:52:36.507] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[25May2025 07:52:38.624] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[25May2025 07:52:38.813] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[25May2025 07:52:38.814] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[25May2025 07:55:45.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set the time to 1000]
+[25May2025 07:56:01.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 07:56:01.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 07:56:29.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Vallumraptor
+[25May2025 08:01:01.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 08:01:01.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 08:04:01.475] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:has_structure/ruined_portal_desert (minecraft:desert) took 1037 ms
+[25May2025 08:04:08.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Teleported YamadaH2O to -3601.500000, 72.000000, -16638.500000]
+[25May2025 08:06:01.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 08:06:01.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 08:07:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Teleported YamadaH2O to Mandester]
+[25May2025 08:09:14.449] [Server thread/DEBUG] [mixin/]: Mixing copycat.stairs.StructureTransformMixin from create_connected.mixins.json into com.simibubi.create.content.contraptions.StructureTransform
+[25May2025 08:09:14.449] [Server thread/DEBUG] [mixin/]: create_connected.mixins.json:copycat.stairs.StructureTransformMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[25May2025 08:11:01.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 08:11:01.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
