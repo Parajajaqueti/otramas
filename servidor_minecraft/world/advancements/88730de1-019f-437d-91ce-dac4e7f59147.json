@@ -7973,6 +7973,30 @@
     },
     "done": true
   },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-05-25 07:26:28 +0000"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
+    "criteria": {
+      "has_item": "2025-05-25 07:33:04 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-05-25 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-05-25 07:46:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-25 08:12:42 +0000"
@@ -7982,12 +8006,6 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-05-25 08:12:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-05-25 08:18:03 +0000"
     },
     "done": true
   },
@@ -8021,12 +8039,6 @@
     },
     "done": true
   },
-  "dungeons_and_combat:i_dont_think_you_need_it": {
-    "criteria": {
-      "i_dont_think_you_need_it_0": "2025-05-25 08:13:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-05-25 08:12:42 +0000"
@@ -8039,33 +8051,9 @@
     },
     "done": true
   },
-  "create:windmill": {
-    "criteria": {
-      "0": "2025-05-25 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "create:speed_controller": {
-    "criteria": {
-      "0": "2025-05-25 07:46:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-25 08:12:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-05-25 08:18:03 +0000"
-    },
-    "done": true
-  },
-  "create_connected:recipes/crafting/kinetics/brass_gearbox": {
-    "criteria": {
-      "has_item": "2025-05-25 07:33:04 +0000"
     },
     "done": true
   },
@@ -8075,9 +8063,21 @@
     },
     "done": true
   },
-  "create:precision_mechanism": {
+  "dungeons_and_combat:i_dont_think_you_need_it": {
     "criteria": {
-      "0": "2025-05-25 07:26:28 +0000"
+      "i_dont_think_you_need_it_0": "2025-05-25 08:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-25 08:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-05-25 08:18:03 +0000"
     },
     "done": true
   },
