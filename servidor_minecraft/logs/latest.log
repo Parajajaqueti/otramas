@@ -455,3 +455,73 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 21:01:58.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Made All_D08 a server operator]
 [25May2025 21:04:39.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 drowned
 [25May2025 21:09:45.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Wheels of Destruction]
+[25May2025 21:15:36.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of All_D08) moved wrongly! 0.4153601083344256
+[25May2025 21:15:36.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of All_D08) moved wrongly! 0.5225229441039119
+[25May2025 21:16:48.118] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-413}
+[25May2025 21:16:48.120] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-415}
+[25May2025 21:16:54.647] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/32959, l='ServerLevel[world]', x=6423.50, y=45.00, z=-1981.50]
+[25May2025 21:16:58.660] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33104, l='ServerLevel[world]', x=6420.50, y=43.00, z=-1970.50]
+[25May2025 21:18:35.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Alex's Mobs]
+[25May2025 21:21:56.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [The Parrots and the Bats]
+[25May2025 21:24:11.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported Mandester to All_D08]
+[25May2025 21:24:29.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[25May2025 21:24:29.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[25May2025 21:24:35.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of All_D08) moved wrongly! 0.40283388079594346
+[25May2025 21:24:35.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of All_D08) moved wrongly! 0.40283388079594346
+[25May2025 21:24:35.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of All_D08) moved wrongly! 0.40283388079594346
+[25May2025 21:24:59.658] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[25May2025 21:25:09.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:38311] logged in with entity id 39999 at (5924.679294991261, 83.10709663960209, -3011.283910007659)
+[25May2025 21:25:09.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[25May2025 21:25:39.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[25May2025 21:25:39.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[25May2025 21:26:35.635] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[25May2025 21:26:45.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:57273] logged in with entity id 41116 at (5924.679294991261, 83.10709663960209, -3011.283910007659)
+[25May2025 21:26:45.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[25May2025 21:27:15.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[25May2025 21:27:15.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[25May2025 21:28:12.614] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[25May2025 21:28:21.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:39227] logged in with entity id 43631 at (5924.679294991261, 83.10709663960209, -3011.283910007659)
+[25May2025 21:28:21.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[25May2025 21:28:51.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[25May2025 21:28:51.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[25May2025 21:30:35.914] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
+[25May2025 21:30:35.915] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
+[25May2025 21:31:09.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Alex's Caves]
+[25May2025 21:34:41.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/52077, l='ServerLevel[world]', x=809.50, y=40.00, z=4717.50]
+[25May2025 21:36:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was slain by Zombie
+[25May2025 21:50:08.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 fell from a high place
+[25May2025 21:54:37.240] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-149, 23], discarding
+[25May2025 21:54:37.241] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-148, 23], discarding
+[25May2025 21:54:37.267] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-147, 23], discarding
+[25May2025 21:54:37.268] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-146, 23], discarding
+[25May2025 21:54:37.302] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-149, 22], discarding
+[25May2025 21:54:37.303] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-148, 22], discarding
+[25May2025 21:54:37.305] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-147, 22], discarding
+[25May2025 21:54:37.306] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-146, 22], discarding
+[25May2025 21:54:37.413] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-149, 21], discarding
+[25May2025 21:54:37.414] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-148, 21], discarding
+[25May2025 21:54:37.415] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-147, 21], discarding
+[25May2025 21:54:37.416] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-146, 21], discarding
+[25May2025 21:54:37.427] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-149, 20], discarding
+[25May2025 21:54:37.428] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: dungeons_and_combat:the_cult_of_the_weaks
+[25May2025 21:54:37.428] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-148, 20], discarding
+[25May2025 21:54:37.430] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-147, 20], discarding
+[25May2025 21:54:37.441] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-146, 20], discarding
+[25May2025 21:58:30.692] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-149, 19], discarding
+[25May2025 21:58:30.693] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-148, 19], discarding
+[25May2025 21:58:30.730] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-147, 19], discarding
+[25May2025 21:58:30.763] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [-146, 19], discarding
+[25May2025 22:07:27.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [The Bloody Cult]
+[25May2025 22:07:40.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was killed by magic whilst trying to escape High Priest
+[25May2025 22:08:25.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 died
+[25May2025 22:08:50.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was shot by Skeleton
+[25May2025 22:09:13.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 was shot by High Priest
+[25May2025 22:09:47.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 died
+[25May2025 22:10:14.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [The Bloodymancer]
+[25May2025 22:13:07.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2504, y=75, z=597} BlockPos{x=-2505, y=75, z=597}
+[25May2025 22:13:15.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [The Cursed Soul]
+[25May2025 22:14:08.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Dark Purposes]
+[25May2025 22:17:01.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Cachalot Whale
+[25May2025 22:17:31.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JARAX23> estoy aca con mi playlist
+[25May2025 22:26:46.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has completed the challenge [Free Willy]
+[25May2025 22:27:08.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 was slain by Cachalot Whale
