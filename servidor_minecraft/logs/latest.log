@@ -393,3 +393,69 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 05:19:50.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.176.151.104:48169] logged in with entity id 68 at (-4263.744403991717, 70.0, -2056.9665558508605)
 [25May2025 05:19:50.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
 [25May2025 05:31:11.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Set the time to 1000]
+[25May2025 05:43:10.110] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-499}
+[25May2025 05:43:10.111] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-40, z=-503}
+[25May2025 05:46:45.202] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[25May2025 05:46:45.216] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[25May2025 05:46:45.216] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[25May2025 05:46:45.251] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[25May2025 05:46:45.251] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[25May2025 05:46:45.271] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[25May2025 05:46:45.271] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[25May2025 05:46:47.509] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[25May2025 05:46:47.518] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[25May2025 05:46:47.518] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[25May2025 05:46:47.567] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[25May2025 05:46:47.586] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[25May2025 05:46:47.599] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[25May2025 05:47:19.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to YamadaH2O: ya moriste?
+[25May2025 05:58:26.603] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[25May2025 05:58:26.604] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[25May2025 05:58:26.604] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[25May2025 05:58:26.605] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[25May2025 05:58:26.605] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[25May2025 05:58:26.606] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[25May2025 05:58:26.607] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[25May2025 05:58:26.652] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[25May2025 05:58:26.652] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[25May2025 05:58:26.652] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[25May2025 05:58:26.653] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[25May2025 05:58:26.653] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[25May2025 05:58:32.840] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[25May2025 05:58:32.841] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[25May2025 05:58:32.841] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[25May2025 05:58:33.301] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[25May2025 05:58:33.301] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[25May2025 05:58:33.302] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[25May2025 05:58:33.302] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[25May2025 05:58:33.302] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[25May2025 06:01:23.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Set the time to 1000]
+[25May2025 06:03:19.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YamadaH2O: Set the weather to clear]
+[25May2025 06:08:47.765] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[25May2025 06:08:53.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:37187] logged in with entity id 20561 at (2958.971529197432, 64.0, -2628.417304253458)
+[25May2025 06:08:53.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[25May2025 06:09:23.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[25May2025 06:09:23.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[25May2025 06:09:34.435] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[25May2025 06:09:44.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:44619] logged in with entity id 21565 at (2962.3040357004675, 63.0, -2621.214534975218)
+[25May2025 06:09:44.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[25May2025 06:09:48.040] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -150], discarding
+[25May2025 06:09:48.041] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -149], discarding
+[25May2025 06:09:48.043] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -148], discarding
+[25May2025 06:09:48.045] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -147], discarding
+[25May2025 06:09:48.047] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -146], discarding
+[25May2025 06:10:14.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[25May2025 06:10:14.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[25May2025 06:13:15.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has completed the challenge [Free Willy]
+[25May2025 06:15:40.061] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[25May2025 06:15:47.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:55685] logged in with entity id 26870 at (2962.3040357004675, 63.0, -2621.214534975218)
+[25May2025 06:15:47.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[25May2025 06:15:59.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Taste the Rainbow]
+[25May2025 06:17:27.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> ya se esta recuperando mi pc
+[25May2025 06:17:28.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Disconnected
+[25May2025 06:17:28.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[25May2025 06:18:36.718] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -150], discarding
+[25May2025 06:18:36.726] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -149], discarding
+[25May2025 06:18:36.740] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -148], discarding
+[25May2025 06:18:36.753] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -147], discarding
+[25May2025 06:18:36.779] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -146], discarding
