@@ -469,3 +469,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 06:25:18.776] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'iammusicplayer:iammusicplayer/listen_to_music' in progress file ./world/advancements/b2da3f4f-368d-4add-91b8-fdefbc5fa6e9.json - it doesn't exist anymore?
 [25May2025 06:25:18.777] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'iammusicplayer:iammusicplayer/listen_to_remote_music' in progress file ./world/advancements/b2da3f4f-368d-4add-91b8-fdefbc5fa6e9.json - it doesn't exist anymore?
 [25May2025 06:25:18.777] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'iammusicplayer:iammusicplayer/root' in progress file ./world/advancements/b2da3f4f-368d-4add-91b8-fdefbc5fa6e9.json - it doesn't exist anymore?
+[25May2025 06:29:30.248] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -150], discarding
+[25May2025 06:29:30.249] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -149], discarding
+[25May2025 06:29:30.251] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -148], discarding
+[25May2025 06:29:30.252] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -147], discarding
+[25May2025 06:29:30.253] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -146], discarding
+[25May2025 06:29:49.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[25May2025 06:29:49.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[25May2025 06:30:01.761] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[25May2025 06:30:11.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:38577] logged in with entity id 34333 at (2971.5, 63.0, -2614.5)
+[25May2025 06:30:11.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[25May2025 06:30:41.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[25May2025 06:30:41.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[25May2025 06:31:04.868] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[25May2025 06:31:11.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:49673] logged in with entity id 35658 at (2971.5, 63.0, -2614.5)
+[25May2025 06:31:11.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[25May2025 06:31:41.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[25May2025 06:31:41.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[25May2025 06:32:57.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[25May2025 06:34:03.169] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[25May2025 06:34:03.170] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[25May2025 06:34:03.170] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[25May2025 06:34:03.273] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[25May2025 06:34:03.274] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[25May2025 06:34:32.170] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[25May2025 06:34:32.178] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[25May2025 06:34:32.178] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[25May2025 06:34:32.178] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[25May2025 06:36:00.998] [Worker-Main-17/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
