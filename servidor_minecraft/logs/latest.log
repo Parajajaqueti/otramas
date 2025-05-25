@@ -459,3 +459,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 06:18:36.740] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -148], discarding
 [25May2025 06:18:36.753] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -147], discarding
 [25May2025 06:18:36.779] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'dungeons_and_combat:the_cult_of_the_weaks' in chunk [163, -146], discarding
+[25May2025 06:19:52.761] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player YamadaH2O is 92efd7a6-88fb-4f9b-8f48-624fdc0e1355
+[25May2025 06:20:04.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YamadaH2O[/127.176.151.104:48805] logged in with entity id 28156 at (-2972.7732150333395, 46.321484624956106, -6797.109064990975)
+[25May2025 06:20:04.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O joined the game
+[25May2025 06:20:18.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O drowned
+[25May2025 06:22:35.911] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 1183 ms
+[25May2025 06:23:11.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Teleported YamadaH2O to 931.500000, 63.000000, -564.500000]
+[25May2025 06:24:57.989] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 1212 ms
+[25May2025 06:25:18.776] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'iammusicplayer:iammusicplayer/listen_to_music' in progress file ./world/advancements/b2da3f4f-368d-4add-91b8-fdefbc5fa6e9.json - it doesn't exist anymore?
+[25May2025 06:25:18.777] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'iammusicplayer:iammusicplayer/listen_to_remote_music' in progress file ./world/advancements/b2da3f4f-368d-4add-91b8-fdefbc5fa6e9.json - it doesn't exist anymore?
+[25May2025 06:25:18.777] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'iammusicplayer:iammusicplayer/root' in progress file ./world/advancements/b2da3f4f-368d-4add-91b8-fdefbc5fa6e9.json - it doesn't exist anymore?
