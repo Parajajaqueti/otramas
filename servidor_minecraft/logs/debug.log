@@ -7624,3 +7624,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [25May2025 20:48:48.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25May2025 20:51:03.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mandester> javier mueve
 [25May2025 20:52:51.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: All_D08 has made the advancement [Into Fire]
+[25May2025 20:53:48.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 20:53:48.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 20:58:47.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 20:58:48.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 21:00:47.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <All_D08> ZZZZZZZzzzzZZZzZ
+[25May2025 21:01:58.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Made All_D08 a server operator]
+[25May2025 21:03:47.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 21:03:48.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 21:04:39.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 drowned
+[25May2025 21:08:48.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 21:08:48.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 21:09:45.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Wheels of Destruction]
