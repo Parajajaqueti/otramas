@@ -642,6 +642,7 @@
       "minecraft:cave_spider": "2025-05-22 03:02:43 +0000",
       "minecraft:piglin": "2025-05-21 06:15:53 +0000",
       "minecraft:stray": "2025-05-17 06:13:43 +0000",
+      "minecraft:enderman": "2025-05-25 08:19:25 +0000",
       "minecraft:zombie": "2025-05-15 00:00:24 +0000",
       "minecraft:drowned": "2025-05-21 04:53:55 +0000",
       "minecraft:zombie_villager": "2025-05-23 05:30:36 +0000"
@@ -4575,9 +4576,21 @@
     },
     "done": true
   },
+  "dungeons_and_combat:i_dont_think_you_need_it": {
+    "criteria": {
+      "i_dont_think_you_need_it_0": "2025-05-25 08:16:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-05-25 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-05-25 08:11:33 +0000"
     },
     "done": true
   },
